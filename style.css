@@ -1,4 +1,9 @@
 body {
     color: hotpink;
     background-color: #000;
+    font-family: "Homemade Apple", cursive;
+}
+
+main {
+    padding: 50px;
 }
