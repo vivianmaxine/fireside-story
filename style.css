@@ -1,9 +1,17 @@
 body {
     color: hotpink;
+<<<<<<< HEAD
     background-color: #221;
+=======
+    background-color: #000;
+>>>>>>> refs/remotes/origin/master
     font-family: "Homemade Apple", cursive;
 }
 
 main {
+<<<<<<< HEAD
     padding: 50px;
+=======
+    padding: 50px
+>>>>>>> refs/remotes/origin/master
 }
